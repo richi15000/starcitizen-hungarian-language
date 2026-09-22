@@ -1,4 +1,4 @@
-# Star Citizen Hungarian Localization
+# Star Citizen Hungarian Localization 4.10.1
 
 Accent-free Hungarian localization for Star Citizen.
 
