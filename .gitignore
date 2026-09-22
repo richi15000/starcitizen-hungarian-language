@@ -1,0 +1,4 @@
+# Local Star Citizen launcher and crash-report files
+*.log
+*.dmp
+*.bak
